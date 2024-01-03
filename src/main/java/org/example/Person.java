@@ -66,7 +66,7 @@ public class Person {
 
     @Override
     public String toString() {
-        return "org.example.Person{name='" + name + "', surname='" + surname + "', address='" + address + "'}";
+        return "Person{name='" + name + "', surname='" + surname + "', address='" + address + "'}";
     }
 
     @Override
